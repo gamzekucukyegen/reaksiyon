@@ -1,0 +1,18 @@
+.button{
+    margin-left: 20px;
+}
+.contanier{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top:15%
+}
+.space{
+    margin-top: 10px;
+}
+h1,
+p,
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
